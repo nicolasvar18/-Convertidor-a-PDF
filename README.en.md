@@ -7,7 +7,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Vargas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolas-vargas-956b79166/)
 
-[🇺🇸 English](./README.en.md) | [🇪🇸 Español](./README.md)
+[🇺🇸 English](README.en.md) | [🇪🇸 Español](README.md)
 
 </div>
 
