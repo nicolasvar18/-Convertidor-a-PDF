@@ -35,7 +35,7 @@ Potente script en PowerShell que automatiza la conversión de documentos de Micr
 
 1. **Clonar el repositorio**
    ```powershell
-   git clone https://github.com/tu-usuario/office-to-pdf.git
+   git clone https://github.com/nicolasvar18/-Convertidor-a-PDF.git
    cd office-to-pdf
    ```
 
